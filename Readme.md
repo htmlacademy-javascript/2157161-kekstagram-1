@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Karim Farkhutdinov](https://up.htmlacademy.ru/javascript-individual/1/user/2157161).
-* Наставник: `Неизвестно`.
+* Наставник: `Виктория Никитина`.
 
 ---
 
